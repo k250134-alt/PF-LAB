@@ -3,11 +3,17 @@
 ### heading 3
 **This is a bold text**
 <br/>
-# Hi there, My name is Daniya Asim.
-<br/> 
-I'm so passionate about my career in AI, as it is a very vast feild. Programming exites me a lot.
-Though i have learned some basics of C Language at intermediate level, but i am looking orward to learn coding and programmimg at high level.
+_This id for italic_
 <br/>
-I want to learnn Python, as it is the requirement of my field and JavaScript. 
-
-
+Unordered List
+<br/>
+- List1
+- List2
+- List3
+- List4
+  <br/>
+  Unordered List
+  <br/.
+  1. PF-LAB03
+  2. GITHUB PROFILE
+  3. LAB TASK 03
