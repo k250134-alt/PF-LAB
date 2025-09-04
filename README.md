@@ -3,15 +3,9 @@
 ### heading 3
 **This is a bold text**
 <br/>
-Unordered list
-<br/>
-- List1
-- List2
-- List3
-<br/>
-Ordered list
-<br/>
-  1. PF-lab
-     
- 
+# Hi there, My name is Daniya Asim.
+<br/> 
+I'm so passionate about my career in AI, as it is a very vast feild. Programming exites me a lot.
+Though i have learned some basics of C Language at intermediate level, but i am looking orward to learn coding and programmimg at high level
+
 
